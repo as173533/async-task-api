@@ -203,7 +203,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/async-task-demo.git
+   git clone https://github.com/as173533/async-task-api
    cd async-task-demo
    ```
 
@@ -241,3 +241,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 Now, the API should be running at `http://127.0.0.1:8000`, and you can start interacting with the endpoints.
 
 ---
+
